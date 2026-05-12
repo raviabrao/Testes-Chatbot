@@ -1,2 +1,6 @@
 # Testes-Chatbot
-Testando upload de arquivos do chatbot em python com IA do Hugging Face.
+Chatbot em python utilizando IA's do Hugging Face
+
+Tentativa 1
+
+IA Utilizada: SmolLM 135M
